@@ -19,7 +19,7 @@ const USER_CONFIG = {
   IS_SHOW_COLOR: true,
 
   // 功能开关,打开：true，关闭：false
-  SWITCH: {ture
+  SWITCH: {
     /** 每日天气 */
     weather: true,
 
@@ -60,10 +60,10 @@ const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [ysxzyysxzy
+  USERS: [
     {
       // 想要发送的人的名字
-      name: '亲爱的韵宝贝',
+      name: 'cqqpWFeDZH-SqHg85LEYhMJfjmqrtB7lTZB9VrBkq58',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: '',
       // 你想对他发送的模板消息的模板ID
