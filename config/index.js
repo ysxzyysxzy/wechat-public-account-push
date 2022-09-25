@@ -60,10 +60,10 @@ const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [o15MX6OYmd5FuewtCxg-9nV0Fr0U
-    {
+  USERS: [o15MX6OYmd5FuewtCxg-9nV0Fr0U]
+    
       // 想要发送的人的名字
-      name: '',
+      name: '周韵宝贝',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: '',
       // 你想对他发送的模板消息的模板ID
