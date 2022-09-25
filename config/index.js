@@ -184,7 +184,7 @@ const USER_CONFIG = {
     {
       name: '宝贝',
       id: 'wx950c9f740967f3d9',
-      useTemplateId: 'YHOafl_Ma98gohIQHfqP59zeGeyMKo972GDkpeOV_Cc	',
+      useTemplateId: 'tvWfGKBPaqMiqgHPrBz852nHlThsZHiIZLTqV-AmZdA	',
       province: '贵州',
       city: '遵义',
       horoscopeDate: '',
