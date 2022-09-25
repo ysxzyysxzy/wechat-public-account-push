@@ -19,7 +19,7 @@ const USER_CONFIG = {
   IS_SHOW_COLOR: true,
 
   // 功能开关,打开：true，关闭：false
-  SWITCH: {
+  SWITCH: {ture
     /** 每日天气 */
     weather: true,
 
