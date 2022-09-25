@@ -67,11 +67,11 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o15MX6OYmd5FuewtCxg-9nV0Fr0U',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '	HAeWdaNJqVbQT_sYm11EaWvT-ewTSFroCqytrUQOCLM',
+      useTemplateId: '	HHaYfUAxid8SiYVstJ9Y8OhNTuujyf9fyblZh4855oc',
       // 所在省份
-      province: '',
+      province: '重庆',
       // 所在城市
-      city: '重庆市',
+      city: '',
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '09-10',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -176,10 +176,8 @@ const USER_CONFIG = {
       useTemplateId: 'HHaYfUAxid8SiYVstJ9Y8OhNTuujyf9fyblZh4855oc',
       province: '重庆',
       city: '重庆',
-      birthday: '2001-09-10',
-      第一天认识: '2022-05-01',
       openUrl: 'https://wangxinleo.cn',
-      festivals: [],
+      festivals: [06-06],
       customizedDateList: [],
       courseSchedule: null
     },
